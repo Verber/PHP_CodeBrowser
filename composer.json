@@ -1,0 +1,13 @@
+{
+    "name": "elger/PHP_CodeBrowser",
+    "description": "A Code browser for PHP files",
+    "require": {
+        "php": ">=5.2"
+    },
+    "authors": [
+        {
+            "name": "Elger Thiele",
+            "email": "elger.thiele@mayflower.de"
+        }
+    ]
+}
