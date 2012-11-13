@@ -4,6 +4,13 @@
     "require": {
         "php": ">=5.2"
     },
+    "bin": [
+        "bin/phpcb.php",
+        "bin/phpcb.bat"
+    ],
+    "config": {
+        "bin-dir": "bin"
+    },
     "authors": [
         {
             "name": "Elger Thiele",
