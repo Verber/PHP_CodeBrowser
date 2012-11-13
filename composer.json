@@ -6,7 +6,8 @@
     },
     "bin": [
         "bin/phpcb.php",
-        "bin/phpcb.bat"
+        "bin/phpcb.bat",
+        "bin/phpcb"
     ],
     "config": {
         "bin-dir": "bin"
